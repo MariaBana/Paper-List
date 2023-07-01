@@ -5,4 +5,4 @@ Topics:
 - Robotics
     - [optimazation-based](Topics/optimization-based.md)
     - [RL-based](Topics/RL-based.md)
-    - [multi-model](Topics/multi-model.md)
+    - [multimodel-based](Topics/multi-model.md)
