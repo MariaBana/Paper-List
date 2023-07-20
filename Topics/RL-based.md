@@ -1,10 +1,15 @@
-# optimization-based
+# RL-based
 ## locomotion 
 
 - RAL2023, Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors, [pdf](https://ieeexplore.ieee.org/document/10167753)  
     - Generate an AMP dataset based on TOWR, which include trot only
     - Use a style reward to learn robust and agile locomotion with natural motion styles
     - A RL policy to achieve robust and agile locomotion.
+
+### Code
+- [legged-gym](https://github.com/leggedrobotics/legged_gym)
+- [walk-these-ways](https://github.com/Improbable-AI/walk-these-ways)
+
 
 ## manipulation
 - CoRL2022(Oral), Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion, [page](https://manipulation-locomotion.github.io/)
@@ -15,3 +20,4 @@
 - dibble the ball: arxiv 2023.04, DribbleBot: Dynamic Legged Manipulation in the Wild
 
 - press button with forelimbs: arxiv 2023.03, Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion
+

@@ -1,5 +1,4 @@
 # Paper-List
-A list of papers on robotics that I have read.
 
 Topics:
 - Robotics
